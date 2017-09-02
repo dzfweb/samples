@@ -31,7 +31,7 @@ namespace HelloWorld
 
         private void ClickMe_Click(object sender, RoutedEventArgs e)
         {
-            HelloMessage.Text = "Hello, Windows 10 IoT Core!";
+            HelloMessage.Text = "Hello World!";
         }
     }
 }
